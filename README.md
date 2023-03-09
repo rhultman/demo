@@ -1,4 +1,4 @@
 # demo
-This is a github repository for class purpooses
+This is a github repository for class purposes
 
 contact rich@rhultman.com
